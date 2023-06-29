@@ -12,6 +12,7 @@ Die Anforderungen waren folgende:
 3.	Danach wartet das Skript so lange.
 4.	Anschliessend startet Notepad.
 5.	Anschliessend liest das Programm folgende Werte vom Benutzer ein:
+
 a.	Nachname
 b.	Vorname
 c.	Strasse
