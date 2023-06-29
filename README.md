@@ -36,6 +36,10 @@ Ausgabe:
 
 ![Screenshot 2023-06-29 124632](https://github.com/Vettelfanboy/Portfolio-M122/assets/110892495/51cd8edd-2154-4468-bbf0-f10c37756ab0)
 
+Reflexion:
+
+Dieses Thema war für mich sehr logisch
+
 
 
 
